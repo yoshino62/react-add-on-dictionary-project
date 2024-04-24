@@ -1,5 +1,5 @@
 import React from "react";
 
 export default function Synonyms(props) {
-  return "hello from Synonyms";
+  return <div>return "hello from Synonyms";</div>;
 }
